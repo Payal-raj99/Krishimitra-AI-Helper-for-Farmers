@@ -1,0 +1,1 @@
+# Krishimitra-AI-Helper-for-Farmers
