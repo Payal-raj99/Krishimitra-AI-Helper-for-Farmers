@@ -1,5 +1,6 @@
 # Krishimitra-AI-Helper-for-Farmers
  Project Report: Krishimitra – AI Helper for Farmers 
+ Dataset link https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ## Project Title
 Krishimitra: AI-Based Plant Disease Detection System
